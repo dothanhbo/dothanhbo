@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dothanhbo
+- 👋 Hi, I’m @dothanhbo <img src="https://giphy.com/gifs/my-code-works-runs-wGEymBvo6FUlR9bbda" width="400" align="right"/>
 - 🧑 My full name is Đỗ Thành Bộ
 - 🏫 I'm currently the last year student at FPT University - Ho Chi Minh City Campus
 - 📖 My major is Software Engineering
