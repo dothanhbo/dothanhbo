@@ -1,4 +1,4 @@
-2- 👋 Hi, I’m @dothanhbo <img src="https://media2.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif?cid=790b76119764c34e8b0b2eaa610afc3036b653ad1e34b803&rid=giphy.gif" width="400" align="right"/>
+2- 👋 Hi, I’m @dothanhbo <img src="https://media2.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif?cid=790b76119764c34e8b0b2eaa610afc3036b653ad1e34b803&rid=giphy.gif" width="400" height="400" align="right"/>
 - 🧑 My full name is Đỗ Thành Bộ
 - 🏫 I'm currently the last year student at FPT University - Ho Chi Minh City Campus
 - 📖 My major is Software Engineering
