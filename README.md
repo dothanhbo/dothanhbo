@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+mono&duration=3000&pause=200&color=000000&multiline=true&width=500&height=100&lines=System.out.println(%22Hello+World!%22);+System.out.println(%22I'm+dothanhbo%22);+System.out.println(%22Welcome+to+my+profile')" alt="Typing SVG" /></a>
-- 👋 Hi,
-- 🧑 My full name is Đỗ Thành Bộ
+- 👋 My full name is Đỗ Thành Bộ
 - 🏫 I'm currently a student at FPT University - Ho Chi Minh City Campus
 - 📖 My major is Software Engineering
 - 👀 I’m interested in coding, cooking, gaming and everything.
