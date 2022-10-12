@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+mono&duration=3000&pause=200&color=000000&multiline=true&width=500&height=100&lines=System.out.println(%22Hello+World!%22);+System.out.println(%22I'm+dothanhbo%22);+System.out.println(%22Welcome+to+my+profile')" alt="Typing SVG" /></a>
-- 👋 My full name is Đỗ Thành Bộ <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47sfn8el68yb8i33v22yei9eubx76lkwzjh24ibqsg&rid=giphy.gif&ct=g" width="400px" height="250px" align="right"/>
+- 👋 My full name is Đỗ Thành Bộ
 - 🏫 I'm currently a student at FPT University - Ho Chi Minh City Campus
 - 📖 My major is Software Engineering
 - 👀 I’m interested in coding, cooking, gaming and everything.
