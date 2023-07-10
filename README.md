@@ -15,6 +15,5 @@
 <div align="center">
   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=dothanhbo&theme=algolia&background=0d1117&hide_border=true" />
   <img height="200em" width="245" src="https://media2.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif?cid=ecf05e47a5ohppiw67fdr4tivd9cch33hqpazv4r681jbsiq&rid=giphy.gif" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=dothanhbo&theme=react-dark"/>
 
 </div>
