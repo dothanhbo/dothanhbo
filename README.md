@@ -10,12 +10,10 @@
  ![C](https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=white) 
  ![C#](https://img.shields.io/badge/c%23-%23323330.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-### Backend:
- ![.Net](https://img.shields.io/badge/.NET-%23323330?style=for-the-badge&logo=.net&logoColor=white) 
-### FrontEnd:
  ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white) 
- ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white) 
+### Backend:
+ ![.Net](https://img.shields.io/badge/.NET-%23323330?style=for-the-badge&logo=.net&logoColor=white) 
 ### Phone Development:
  ![Android Studio](https://img.shields.io/badge/android%20studio-%23323330.svg?style=for-the-badge&logo=android%20studio&logoColor=white) 
  ![Flutter](https://img.shields.io/badge/flutter-%23323330.svg?style=for-the-badge&logo=flutter&logoColor=white) 
