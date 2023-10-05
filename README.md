@@ -1,3 +1,4 @@
+## About me
 - 🏫 I'm currently a student at FPT University - Ho Chi Minh City Campus
 - 📖 My major is Software Engineering
 - 👀 I’m interested in coding, cooking, gaming and everything.
