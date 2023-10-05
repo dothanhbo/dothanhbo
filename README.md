@@ -36,7 +36,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dothanhbo&layout=compact&show_icon=true&theme=algolia" alt="dothanhbo-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=dothanhbo&layout=compact&show_icon=true&theme=algolia" alt="dothanhbo-stats"/>
 </div>
-</div align="center">
+<div align="center">
   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=dothanhbo&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 <a href="https://visitcount.itsvg.in">
