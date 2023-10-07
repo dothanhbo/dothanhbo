@@ -14,7 +14,7 @@
  ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ### Backend:
  ![.Net](https://img.shields.io/badge/.NET-%23323330?style=for-the-badge&logo=.net&logoColor=white) 
-  ![API](https://img.shields.io/badge/API-%23323330?style=for-the-badge&logo=api&logoColor=white)
+  ![API](https://img.shields.io/badge/API-%23323330?style=for-the-badge&logo=fastapi&logoColor=white)
 ### Phone Development:
  ![Android Studio](https://img.shields.io/badge/android%20studio-%23323330.svg?style=for-the-badge&logo=android%20studio&logoColor=white) 
  ![Flutter](https://img.shields.io/badge/flutter-%23323330.svg?style=for-the-badge&logo=flutter&logoColor=white) 
