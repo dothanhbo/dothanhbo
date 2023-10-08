@@ -18,6 +18,7 @@
 ### Phone Development:
  ![Android Studio](https://img.shields.io/badge/android%20studio-%23323330.svg?style=for-the-badge&logo=android%20studio&logoColor=white) 
  ![Flutter](https://img.shields.io/badge/flutter-%23323330.svg?style=for-the-badge&logo=flutter&logoColor=white) 
+ ![Dart](https://img.shields.io/badge/dart-%23323330.svg?style=for-the-badge&logo=dart&logoColor=white)
  ### Framework/Library:
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ### Design/Visual Tools
